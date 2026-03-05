@@ -4,3 +4,5 @@
 A repository for learning GitHub.
 - I like hiking.
 - I'm learning Java.
+  
+- Part 6, collaborating with Hasaam!
